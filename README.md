@@ -1,4 +1,4 @@
-#go-wsfed
+# go-wsfed
 
 High-level API library for implementing WSFed client based on  [etree](https://github.com/beevik/etree) and [signedxml](https://github.com/ma314smith/signedxml), a pure Go implementation.
 The library provides the Identity Provider implementation.
