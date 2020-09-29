@@ -5,7 +5,7 @@ The library provides the Identity Provider implementation.
 
 ## Features
 
-- Generating Token (SAML v1.1) based on the Request Param for login
+- Generating Token (SAML v1.1) based on the Request parameters for login
 
 
 ## Installation
